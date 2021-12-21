@@ -1,7 +1,7 @@
 <h1 align='center'>Hi there 👋</h1>
 
-💬 Ask me about: JavaScript | React | Node | SQL | MongoDB '\n'
-📫 How to reach me: junma@gmail.com | https://www.linkedin.com/in/jerry-jma/
+<p>💬 Ask me about: JavaScript | React | Node | SQL | MongoDB </p>
+<p>📫 How to reach me: junma@gmail.com | https://www.linkedin.com/in/jerry-jma/</p>
 
 
 <!--**jerry-jma/jerry-jma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
