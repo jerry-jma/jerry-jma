@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋</h1>
 
-💬 Ask me about: JavaScript | React | Node | SQL | MongoDB
+💬 Ask me about: JavaScript | React | Node | SQL | MongoDB '\n'
 📫 How to reach me: junma@gmail.com | https://www.linkedin.com/in/jerry-jma/
 
 
