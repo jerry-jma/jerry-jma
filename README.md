@@ -1,8 +1,3 @@
-<h1 align='center'>Hi there 👋</h1>
-
-<p>💬 Ask me about: JavaScript | React | Node | SQL | MongoDB </p>
-<p>📫 How to reach me: junma@gmail.com | https://www.linkedin.com/in/jerry-jma/</p>
-
 ## Hi there! I'm Jerry Ma 👋
 
 [![LinkedIn](https://img.shields.io/badge/whitelisab%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jerry-jma/)](https://www.linkedin.com/in/jerry-jma/)
@@ -27,13 +22,4 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
-
-
-<!--**jerry-jma/jerry-jma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-⚡ Fun fact: I got exposed to software engineering back in high school 
--->
 
