@@ -1,4 +1,4 @@
-## Hi there! I'm Jerry Ma 👋
+## Hi there! I'm Jerry Ma <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![LinkedIn](https://img.shields.io/badge/jerryma%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jerry-jma/)](https://www.linkedin.com/in/jerry-jma/)
 [![GitHub](https://img.shields.io/badge/jerryma%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/jerry-jma)](https://github.com/jerry-jma)
