@@ -11,6 +11,8 @@
 - :round_pushpin: San Jose, CA | Remote | Relocate
 - :smile: Pronouns: he/his/him
 
+![Visitor Count](https://profile-counter.glitch.me/{jerry-jma}/count.svg) 
+
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
