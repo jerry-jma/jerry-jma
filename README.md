@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there! 👋
 
 <p>
   Welcome to my Github profile. My name is Jerry Ma. I am a full-stack software engineer and web developer and looking to enrich my brain with some coding goodness. 
